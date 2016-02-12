@@ -1,2 +1,2 @@
 # Tools `LFS enabled`
-We use it to built [Rime](https://rime.co)
+We use these to built [Rime](https://rime.co)

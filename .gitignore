@@ -1,6 +1,3 @@
 *.*
 !.gitignore
-!.gitattributes
-!*.zip
 !*.md
-.DS_Store
